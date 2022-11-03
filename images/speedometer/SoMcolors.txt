@@ -1,0 +1,5 @@
+lv 1: 2bb600
+lv 2: fff600
+lv 3: ffb400
+lv 4: ff8c8c
+lv 5: ff0000

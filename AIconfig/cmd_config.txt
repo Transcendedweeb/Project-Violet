@@ -1,0 +1,36 @@
+[links]
+League of Legends.lnk
+cmd.lnk
+steam.lnk
+teams.lnk
+Visual Studio Code.lnk
+Vortex.lnk
+Task Manager.lnk
+figma.lnk
+forsa.lnk
+[URL's]
+gogoanime.url
+playlist.url
+photoshop.url
+twitch.url
+sprites.url
+nexus.url
+mp3.url
+wav.url
+mail.url
+open ship.url
+adc.url
+[key commands]
+full mute.key
+mute.key
+showtime.key
+unmute.key
+show weather.key
+instant replay.key
+[commands]
+best gamer.cmm
+tank rotation.cmm
+reality check.cmm
+thank you.cmm
+is carlo gay.cmm
+play a game.cmm
